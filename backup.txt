@@ -1,0 +1,87 @@
+# @app.route('/happy')
+# def happy():
+#     maandag = {"name" : "",
+# 	            "serves" : "",
+# 	            "preperation time" : "",
+#                 "preparation":"",
+#                 "vegetarian":"",
+#                 "gluten" :"",
+#                 "groceries":"",
+#                 "sous-vide temp":"",
+#                 "sous-vide time":"",
+#                 "core-temp":""}
+
+#     dinsdag = {"name" : "",
+# 	            "serves" : "",
+# 	            "preperation time" : "",
+#                 "preparation":"",
+#                 "vegetarian":"",
+#                 "gluten”:"",
+#                 "groceries":"",
+#                 "sous-vide temp":"",
+#                 "sous-vide time":"",
+#                 "core-temp":""}
+
+#     woensdag = {"name" : "",
+# 	            "serves" : "",
+# 	            "preperation time" : "",
+#                 "preparation":"",
+#                 "vegetarian":"",
+#                 "gluten”:"",
+#                 "groceries":"",
+#                 "sous-vide temp":"",
+#                 "sous-vide time":"",
+#                 "core-temp":""}
+# donderdag = {"name" : "",
+# 	            "serves" : "",
+# 	            "preperation time" : "",
+#                 "preparation":"",
+#                 "vegetarian":"",
+#                 "gluten”:"",
+#                 "groceries":"",
+#                 "sous-vide temp":"",
+#                 "sous-vide time":"",
+#                 "core-temp":""}
+
+#     vrijdag = {"name" : "",
+# 	            "serves" : "",
+# 	            "preperation time" : "",
+#                 "preparation":"",
+#                 "vegetarian":"",
+#                 "gluten”:"",
+#                 "groceries":"",
+#                 "sous-vide temp":"",
+#                 "sous-vide time":"",
+#                 "core-temp":""}
+
+#     zaterdag = {"name" : "",
+# 	            "serves" : "",
+# 	            "preperation time" : "",
+#                 "preparation":"",
+#                 "vegetarian":"",
+#                 "gluten”:"",
+#                 "groceries":"",
+#                 "sous-vide temp":"",
+#                 "sous-vide time":"",
+#                 "core-temp":""}
+
+#                 zondag = {"name" : "",
+# 	            "serves" : "",
+# 	            "preperation time" : "",
+#                 "preparation":"",
+#                 "vegetarian":"",
+#                 "gluten”:"",
+#                 "groceries":"",
+#                 "sous-vide temp":"",
+#                 "sous-vide time":"",
+#                 "core-temp":""}
+
+
+    # return render_template('happydoggy.html',
+    #                          maandag = maandag,
+    #                         dinsdag = dinsdag,
+    #                         woensdag = woensdag,
+    #                         donderdag = donderdag,
+    #                         vrijdag = vrijdag
+    #                         zaterdag = zaterdag
+    #                         zondag = zondag)
