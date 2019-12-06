@@ -4,10 +4,6 @@ from pymongo import MongoClient
 
 app = Flask(__name__)
 
-MONGO_URI = "mongodb+srv://root:1ZmNgZ@myfirstcluster-eiytd.mongodb.net/myTestDB?retryWrites=true&w=majority"
-client = MongoClient(MONGO_URI)
-db = client.myTestDB
-collection = db.Recepten
 
 @app.route('/')
 def home_page():
